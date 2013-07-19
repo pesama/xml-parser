@@ -4,7 +4,7 @@ xml-parser
 XML Parser converts any XML formatted file into a set of Java Objects, with all attributes and relationships configured.
 
 ##How does it work?##
-The parser works in a pretty easy way. It all starts at an entry point
+The parser works in a pretty easy way. It all starts at an entry point called *Lexical Analyzer*, and then declare the *Syntactical Analyzer*.
 
 
 ###Lexical Analyzer###

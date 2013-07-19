@@ -1,4 +1,4 @@
-xml-parser
+XML Parser
 ==========
 
 XML Parser converts any XML formatted file into a set of Java Objects, with all attributes and relationships configured.

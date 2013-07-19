@@ -18,7 +18,7 @@ This analyzer takes as entry point the set of lexical tokens and looks through t
 Once these processes finish the result will be a Syntactical Token (i.e. the XML parent Object) containing all syntactical children in a sorted hierarchic way. 
 With these results the main object can be used for any purpose.
 
-## Usage ## 
+## Usage ##
 This repository contains a full Eclipse Project called EDI. Inside the 'main' package you'll find three files:
 * *Main.java*: This file contains a GUI, useful for XML Graphical analysis. 
 * *MainFrame.java*: Main container of the GUI, with connections with all graphical utilities.
@@ -36,5 +36,5 @@ To start an analysis, you need to declare the following:
 	System.out.println("Finished");
 ```
 
-## License ## 
+## License ##
 This project is released under MIT license, and thus you have no restrictions of usage.

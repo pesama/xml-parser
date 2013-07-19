@@ -20,7 +20,7 @@ With these results the main object can be used for any purpose.
 
 ## Usage ##
 This repository contains a full Eclipse Project called EDI. Inside the 'main' package you'll find three files:
-* *Main.java*: This file contains a GUI, useful for XML Graphical analysis. 
+* **Main.java**: This file contains a GUI, useful for XML Graphical analysis. 
 * *MainFrame.java*: Main container of the GUI, with connections with all graphical utilities.
 * *Main2.java*: Console-based UI for parsing XML files.
 

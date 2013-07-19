@@ -27,8 +27,7 @@ This repository contains a full Eclipse Project called EDI. Inside the 'main' pa
 To start an analysis, you need to declare the following:
 
 ```
-  LexicalAnalyzer lexical = new LexicalAnalyzer(new URL( // Initialise the Lexical Analyzer
-  				"URL_TO_THE_XML_FILE"));
+  LexicalAnalyzer lexical = new LexicalAnalyzer(new URL("URL_TO_THE_XML_FILE")); // Initialise the Lexical Analyzer
 	Object[] tokens = lexical.getTokens(); // Create an Array with all Lexical Tokens
 	
 	SyntacticalAnalyzer syntactical = new SyntacticalAnalyzer(tokens); // Initialise the Syntactical Analyzer
